@@ -37,7 +37,7 @@ select pat.birthdate
 	  ,pat.last
 	  ,flu.earliest_flu_shot_2022
 	  ,flu.patient
-	  ,round(EXTRACT(EPOCH FROM age('2022-12-31',pat.birthdate)) / 2592000, 0) as Age
+	  ,Round(EXTRACT(EPOCH FROM age('2022-12-31',pat.birthdate)) / 2592000 / 12,0) as Age
 	  ,case when flu.patient is not null then 1
 	  else 0
 	  end as flu_shot_2022
