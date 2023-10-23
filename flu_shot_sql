@@ -4,12 +4,12 @@
  b. Race
  c.County
  d. overall 
-2. Runnong total oof flu shots over the course of 2022
+2. Runnong total of flu shots over the course of 2022
 3. Total number of flu shots given in 2022
 4. A list of patients that show whether or not they received the flu shots 
 
 Requirements 
-Patients muust have been 'active at our hospital'*/
+Patients must have been 'active at our hospital'*/
 
 with active_patients as 
 ( select distinct patient
