@@ -1,4 +1,4 @@
-/*come up with flu shots dashboard for 2022 that does the following 
+/* Code used to build a dashboard for a health system to visualize flu shots data */
 1. total % of patients getting flubshots stratified by
  a. Age
  b. Race
