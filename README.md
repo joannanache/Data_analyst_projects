@@ -24,9 +24,9 @@ Skills: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creat
 
 Technology: SQL Server
 
-2. Flu Shots Data
+2. Flu Shots Data 2022
 
-Code : Flu Shots 2022
+Code : Flu Shots 2022 Hospital Portfolio Project 
 
 Description : The dataset used from a hospital database (fake data) to stratify data by different factors such as age, race and location in order to know how many active patients
 received flu shots in the year 2022. A dashboard was also created in order to visualize the findings. This project includes the following steps : Data loading and Exploratory data analysis 
