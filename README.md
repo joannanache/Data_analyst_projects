@@ -1,0 +1,5 @@
+Hello, my name is Joanna! 
+I have a strong analytical background in Biology and currently pursuing a master's degree in health informatics (MS. Health Informatics). I have a strong foundation in the life sciences and a passion for using data to unearth significant insights. As an entry-level data professional, I am delighted to apply my technical and analytical talents in the field of healthcare.
+Throughout my education, I polished my ability to work with complex data and gained a great eye for recognizing patterns and trends. I also received experience in laboratory procedures, data management, and statistical analysis, which I believe will be useful in my position as a data analyst. In my spare time, I like to experiment with new data analysis tools and methodologies, and I am always seeking for new ways to broaden my knowledge and skills. I am motivated by the pleasure of uncovering new insights and the gratification of using data to tackle challenging challenges, whether I am working in a team or on my own.
+This is a repository where I may display my talents, share projects, and track my progress in Data Analytics / Data Science-related topics.
+
